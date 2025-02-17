@@ -1,4 +1,4 @@
-# CraftyBay - E-commerce Platform for Handmade Products
+# CraftyBay | E-commerce Platform for Handmade Products
 
 CraftyBay is an e-commerce platform where buyers can discover and purchase unique, handmade products from independent artisans and small businesses. The app offers a seamless shopping experience with product listings, detailed product views, and an easy checkout process, promoting creativity and supporting small businesses.
 
